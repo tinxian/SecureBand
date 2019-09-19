@@ -20,6 +20,7 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | B0001 | Admin | een nieuwsartikel kan toevoegen | zodat ik mensen andere nieuws kan geven | | Must have | TODO |
+| B0002 | Admin | een Content Management System | zodat ik vele dingen kan toevoegen | | Must have | TODO |
 
 
 
