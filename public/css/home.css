@@ -1,0 +1,86 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+#site {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-areas:
+  "nav nav nav nav nav nav"
+  "con con con con con con"
+  "win win win win win win"
+  "foot foot foot foot foot foot";
+}
+header {
+  grid-area: nav;
+}
+
+.content {
+  padding-top: 20px;
+  grid-area: con;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  margin: 0 auto;
+  width: 70%;
+}
+.content h3 {
+  padding-top: 15px;
+  font-size: 30px;
+  text-align: center;
+}
+.content p {
+  padding-top: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+.content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  padding: 10px;
+}
+
+.container {
+  padding-top: 20px;
+  grid-area: win;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  margin: 0 auto;
+  width: 70%;
+}
+
+.container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 370px;
+  height: auto;
+  padding: 10px;
+}
+
+.container h3 {
+  padding-top: 15px;
+  font-size: 26px;
+  text-align: center;
+}
+.container p {
+  padding-top: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  display: grid;
+  grid-area: pag;
+}
