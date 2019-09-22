@@ -25,6 +25,7 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | B0001 | Admin | een nieuwsartikel kan toevoegen | zodat ik mensen andere nieuws kan geven | AUTORISATIE | Must have | TODO |
 | B0002 | Admin | een Content Management System | zodat ik vele dingen kan toevoegen | TOEGANGSCONTROLE | Must have | TODO |
 | B0003 | Admin | Loginsysteem | zodat ik kan inloggen en bij de admin panel kan | AUTHENTICATIE | Must have | TODO |
+| B0003 | Admin | rollensysteem | zodat ik gebruikers kan aanpassen | AUTORISATIE | Could have | TODO |
 
 
 
