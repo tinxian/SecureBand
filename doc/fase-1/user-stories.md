@@ -29,3 +29,8 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 
 
 
+Belangrijke beveilingseisen:
+1. Injection
+2. Broken Authentication
+3. Security Misconfiguration
+4. Broken Access Control
