@@ -17,6 +17,7 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | U0004 | Gebruiker | Reacties | Zodat ze feedback kunnen geven | AUTHENTICATIE | Could have | TODO |
 | U0005 | Gebruiker | Password reset | Zodat ze bij hun account weer kunnen | AUTHENTICATIE | Could have | TODO |
 | U0006 | Gebruiker | Verificatiemail | Zodat er geen neppe accounts komen | AUTHENTICATIE | Could have | TODO |
+| U0007 | Gebruiker | een Artikel aanklikken | Zodat ik kan verder lezen | | Must have | TODO |
 
 
 ##### Admins
